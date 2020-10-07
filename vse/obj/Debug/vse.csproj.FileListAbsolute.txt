@@ -1,0 +1,14 @@
+C:\Users\cmackinga\dotfiles\vs\vse\vse\bin\Debug\vse.exe.config
+C:\Users\cmackinga\dotfiles\vs\vse\vse\bin\Debug\vse.exe
+C:\Users\cmackinga\dotfiles\vs\vse\vse\bin\Debug\vse.pdb
+C:\Users\cmackinga\dotfiles\vs\vse\vse\obj\Debug\vse.csproj.CoreCompileInputs.cache
+C:\Users\cmackinga\dotfiles\vs\vse\vse\obj\Debug\vse.exe
+C:\Users\cmackinga\dotfiles\vs\vse\vse\obj\Debug\vse.pdb
+C:\Users\cmackinga\dotfiles\vs\vse\vse\obj\Debug\vse.csprojAssemblyReference.cache
+C:\Users\scorc\dotfiles\vs\vse\vse\bin\Debug\vse.exe.config
+C:\Users\scorc\dotfiles\vs\vse\vse\bin\Debug\vse.exe
+C:\Users\scorc\dotfiles\vs\vse\vse\bin\Debug\vse.pdb
+C:\Users\scorc\dotfiles\vs\vse\vse\obj\Debug\vse.csprojAssemblyReference.cache
+C:\Users\scorc\dotfiles\vs\vse\vse\obj\Debug\vse.csproj.CoreCompileInputs.cache
+C:\Users\scorc\dotfiles\vs\vse\vse\obj\Debug\vse.exe
+C:\Users\scorc\dotfiles\vs\vse\vse\obj\Debug\vse.pdb
